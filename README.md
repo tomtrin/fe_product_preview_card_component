@@ -2,13 +2,16 @@
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
+## Live Demo
+
+Visit the [live demo](https://tomtrin.github.io/fe_product_preview_card_component/) of this Product preview card component challenge.
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+**This challenge was completed using HTML and TailwindCSS.**
 
 ## The challenge
 
